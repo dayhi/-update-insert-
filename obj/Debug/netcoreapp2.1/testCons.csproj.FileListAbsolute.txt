@@ -1,0 +1,11 @@
+/Volumes/project/core/testCons/bin/Debug/netcoreapp2.1/testCons.deps.json
+/Volumes/project/core/testCons/bin/Debug/netcoreapp2.1/testCons.runtimeconfig.json
+/Volumes/project/core/testCons/bin/Debug/netcoreapp2.1/testCons.runtimeconfig.dev.json
+/Volumes/project/core/testCons/bin/Debug/netcoreapp2.1/testCons.dll
+/Volumes/project/core/testCons/bin/Debug/netcoreapp2.1/testCons.pdb
+/Volumes/project/core/testCons/obj/Debug/netcoreapp2.1/testCons.csprojAssemblyReference.cache
+/Volumes/project/core/testCons/obj/Debug/netcoreapp2.1/testCons.csproj.CoreCompileInputs.cache
+/Volumes/project/core/testCons/obj/Debug/netcoreapp2.1/testCons.AssemblyInfoInputs.cache
+/Volumes/project/core/testCons/obj/Debug/netcoreapp2.1/testCons.AssemblyInfo.cs
+/Volumes/project/core/testCons/obj/Debug/netcoreapp2.1/testCons.dll
+/Volumes/project/core/testCons/obj/Debug/netcoreapp2.1/testCons.pdb
